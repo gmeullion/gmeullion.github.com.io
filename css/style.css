@@ -69,6 +69,10 @@ nav > ul {
 nav ul {
   padding-left: 0;
 }
+
+nav ul {
+  background-color: burgundy;
+}
  
 h1 {
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;

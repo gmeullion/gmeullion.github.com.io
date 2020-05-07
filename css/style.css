@@ -50,6 +50,25 @@ background-color:#ccc;
 #contact me{
 background-color:#ccc;
 }
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav > ul {
+  margin-top: 0;
+  list-style: none;
+  display: grid;
+ grid-template-columns:1.5fr 2fr 2.5fr 1.5fr 1.5fr;
+  text-align: center;
+}
+
+nav ul {
+  padding-left: 0;
+}
  
 h1 {
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
